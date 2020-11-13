@@ -285,6 +285,8 @@ footer hr{
         position: relative;
         left: 1rem;
         top: -1rem;
+        width: 100%;
+        text-align: justify;
 
     }
 
@@ -316,6 +318,18 @@ footer hr{
         top: 2rem;
     }
     
+    .author-profile h5{
+        font-size: 20px;
+        position: relative;
+        left: 2rem;
+    }
+    
+    .author-profile p{
+        opacity: .5;
+        position: relative;
+        top: -3rem;
+        left: 2rem;
+    }
 
 
     footer{
