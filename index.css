@@ -206,32 +206,23 @@ img{
     top: 2rem;
 }
 
-
-.aut{
+.author-profile{
+    margin-top: -5rem;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.aut h5{
-    position: relative;
-    left: 4rem;
-    top: 2rem;
+
+.author-profile h5{
     font-size: 20px;
 }
 
-
-.aut p{
-    position: relative;
-    top:5rem;
-    left:-3.2rem;
+.author-profile p{
     opacity: .5;
-}
-
-.author h4{
-    font-size: 1.5rem;
     position: relative;
-    left: 10rem;
-    width: 50%;
+    top: -3rem;
 }
 
 
@@ -311,7 +302,7 @@ footer hr{
         width: 80%;
         height: 100px;
         right: 0;
-        left: 2rem;
+        left: 2.5rem;
         display: grid;
         margin-top: -4rem;
     }
@@ -325,30 +316,6 @@ footer hr{
         top: 2rem;
     }
     
-    
-    .aut{
-        display: grid;
-    }
-    
-    .aut h5{
-        position: relative;
-        left: 8rem;
-        top: -7rem;
-        font-size: 20px;
-    }
-    
-    .aut p{
-        top:-9.5rem;
-        left: 8rem;
-    }
-    
-    .author h4{
-        font-size: 1.5rem;
-        position: relative;
-        top: -8rem;
-        left: 1rem;
-        width: 100%;
-    }
 
 
     footer{
